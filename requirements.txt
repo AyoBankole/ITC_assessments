@@ -6,3 +6,6 @@ ucimlrepo
 tensorflow
 statsmodels
 plotly
+torch
+collections
+imbalanced-learn
